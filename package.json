@@ -1,0 +1,36 @@
+{
+  "name": "vscode-codeigniter4-pack",
+  "displayName": "Codeigniter 4 Extension Pack",
+  "description": "Codeigniter 4 Extension Pack",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "url": "https://github.com/ManuelGil"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "codeigniter",
+    "codeigniter4",
+    "extension-pack"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-codeigniter4-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-codeigniter4-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-codeigniter4-pack/issues"
+  },
+  "extensionPack": [
+    "imgildev.vscode-codeigniter4-spark",
+    "imgildev.vscode-codeigniter4-snippets"
+  ]
+}
