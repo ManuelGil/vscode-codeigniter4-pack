@@ -1,14 +1,17 @@
 {
   "name": "vscode-codeigniter4-pack",
-  "displayName": "Codeigniter 4 Pack",
-  "description": "Codeigniter 4 Extension Pack",
-  "version": "1.0.0",
+  "displayName": "Codeigniter 4 Essential Extension Pack",
+  "description": "Codeigniter 4 Essential Extension Pack",
+  "version": "1.1.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
   "author": {
     "name": "Manuel Gil",
     "url": "https://github.com/ManuelGil"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
   },
   "engines": {
     "vscode": "^1.46.0"
@@ -31,6 +34,25 @@
   },
   "extensionPack": [
     "imgildev.vscode-codeigniter4-spark",
-    "imgildev.vscode-codeigniter4-snippets"
+    "imgildev.vscode-codeigniter4-snippets",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "devsense.composer-php-vscode",
+    "mikestead.dotenv",
+    "editorconfig.editorconfig",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "vincaslt.highlight-matching-tag",
+    "christian-kohler.path-intellisense",
+    "sirtori.indenticator",
+    "davidanson.vscode-markdownlint",
+    "junstyle.php-cs-fixer",
+    "xdebug.php-debug",
+    "neilbrayfield.php-docblocker",
+    "mehedidracula.php-namespace-resolver",
+    "mrchetan.phpstorm-parameter-hints-in-vscode",
+    "onecentlin.phpunit-snippets",
+    "bmewburn.vscode-intelephense-client",
+    "recca0120.vscode-phpunit"
   ]
 }
