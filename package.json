@@ -2,7 +2,7 @@
   "name": "vscode-codeigniter4-pack",
   "displayName": "Codeigniter 4 Essential Extension Pack",
   "description": "Codeigniter 4 Essential Extension Pack",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -35,7 +35,6 @@
   "extensionPack": [
     "imgildev.vscode-codeigniter4-spark",
     "imgildev.vscode-codeigniter4-snippets",
-    "formulahendry.auto-rename-tag",
     "aaron-bond.better-comments",
     "devsense.composer-php-vscode",
     "mikestead.dotenv",
@@ -44,17 +43,16 @@
     "eamodio.gitlens",
     "vincaslt.highlight-matching-tag",
     "christian-kohler.path-intellisense",
-    "sirtori.indenticator",
     "davidanson.vscode-markdownlint",
     "junstyle.php-cs-fixer",
     "xdebug.php-debug",
     "neilbrayfield.php-docblocker",
+    "ronvanderheijden.phpdoc-generator",
     "mehedidracula.php-namespace-resolver",
     "mrchetan.phpstorm-parameter-hints-in-vscode",
     "onecentlin.phpunit-snippets",
     "bmewburn.vscode-intelephense-client",
     "recca0120.vscode-phpunit",
-    "shardulm94.trailing-spaces",
-    "oderwat.indent-rainbow"
+    "shardulm94.trailing-spaces"
   ]
 }
