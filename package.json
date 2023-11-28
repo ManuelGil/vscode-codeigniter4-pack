@@ -1,8 +1,8 @@
 {
   "name": "vscode-codeigniter4-pack",
-  "displayName": "Codeigniter 4 Essential Extension Pack",
-  "description": "Codeigniter 4 Essential Extension Pack",
-  "version": "1.3.0",
+  "displayName": "CodeIgniter 4 Essential Extension Pack",
+  "description": "CodeIgniter 4 Essential Extension Pack",
+  "version": "1.4.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -35,7 +35,9 @@
   "extensionPack": [
     "imgildev.vscode-codeigniter4-spark",
     "imgildev.vscode-codeigniter4-snippets",
+    "formulahendry.auto-rename-tag",
     "aaron-bond.better-comments",
+    "jmkrivocapich.drawfolderstructure",
     "devsense.composer-php-vscode",
     "mikestead.dotenv",
     "editorconfig.editorconfig",
