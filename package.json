@@ -2,7 +2,7 @@
   "name": "vscode-codeigniter4-pack",
   "displayName": "CodeIgniter 4 Essential Extension Pack",
   "description": "CodeIgniter 4 Essential Extension Pack",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -34,6 +34,7 @@
   },
   "extensionPack": [
     "imgildev.vscode-codeigniter4-spark",
+    "imgildev.vscode-codeigniter4-shield-snippets",
     "imgildev.vscode-codeigniter4-snippets",
     "formulahendry.auto-rename-tag",
     "aaron-bond.better-comments",
