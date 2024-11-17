@@ -2,7 +2,7 @@
   "name": "vscode-codeigniter4-pack",
   "displayName": "CodeIgniter 4 Essential Extension Pack",
   "description": "CodeIgniter 4 Essential Extension Pack",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -20,9 +20,21 @@
     "Extension Packs"
   ],
   "keywords": [
+    "ci 4",
+    "ci",
+    "ci4",
+    "codeigniter 4",
     "codeigniter",
     "codeigniter4",
-    "extension-pack"
+    "extension-pack",
+    "framework",
+    "keybindings",
+    "php framework",
+    "php",
+    "snippets",
+    "vscode extension",
+    "vscode-extension",
+    "vscode"
   ],
   "homepage": "https://github.com/ManuelGil/vscode-codeigniter4-pack",
   "repository": {
@@ -36,6 +48,7 @@
     "imgildev.vscode-codeigniter4-spark",
     "imgildev.vscode-codeigniter4-shield-snippets",
     "imgildev.vscode-codeigniter4-snippets",
+    "imgildev.vscode-json-flow",
     "formulahendry.auto-rename-tag",
     "aaron-bond.better-comments",
     "jmkrivocapich.drawfolderstructure",
