@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.7.1] - 2025-07-15
+
+### Changed
+
+- Update funding model and enhance README and package description for clarity
+
 ## [1.7.0] - 2024-11-17
 
 ### Added
@@ -54,7 +60,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
-[unreleased]: https://github.com/ManuelGil/vscode-codeigniter4-pack/compare/v1.6.0...HEAD
+[unreleased]: https://github.com/ManuelGil/vscode-codeigniter4-pack/compare/v1.7.1...HEAD
+[1.7.1]: https.//github.com/ManuelGil/vscode-codeigniter4-pack/compare/v1.7.0...v1.7.1
 [1.7.0]: https.//github.com/ManuelGil/vscode-codeigniter4-pack/compare/v1.6.0...v1.7.0
 [1.6.0]: https://github.com/ManuelGil/vscode-codeigniter4-pack/compare/v1.5.0...v1.6.0
 [1.5.0]: https://github.com/ManuelGil/vscode-codeigniter4-pack/compare/v1.4.0...v1.5.0

@@ -1,8 +1,8 @@
 {
   "name": "vscode-codeigniter4-pack",
   "displayName": "CodeIgniter 4 Essential Extension Pack",
-  "description": "CodeIgniter 4 Essential Extension Pack",
-  "version": "1.7.0",
+  "description": "CodeIgniter 4 Essential Extension Pack for Visual Studio Code. This pack includes essential extensions to enhance your CodeIgniter 4 development experience.",
+  "version": "1.7.1",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
